@@ -1,3 +1,3 @@
-# Roblox Projects. V V
+# Roblox Projects
 
-![bu](https://github.com/liigmabalz/Projetos_Lua/assets/148204291/9af6ebe6-85df-44cb-a01d-1055d15c76d3)
+![bu](https://github.com/liigmabalz/Projetos_Lua/assets/148204291/aea2f2d5-cea2-4104-8843-08572641cbb2)
